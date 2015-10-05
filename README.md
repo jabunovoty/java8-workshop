@@ -1,2 +1,2 @@
-# java8-workshop
-Knowledge base for a java 8 workshop
+# Java 8 workshop
+Useful links, small snippets, notes etc. should be gathered in this file.
